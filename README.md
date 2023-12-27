@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://itnext.io/when-string-gethashcode-in-net-c-drives-you-crazy-c97ac7507d7b?sk=f9baa36c281e5f8afd79ef665ab39953" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/when-string-gethashcode-in-net-c-drives-you-crazy" />
 
 # When String.GetHashCode() in .NET C# Drives You Crazy
 ### Know when to depend on String.GetHashCode() in .NET C#, and when not.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*Zj3mCz4RduzSDPi5DazEOw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_127af5026f354e39b96849d8f7bc1d4f~mv2.png">
 </p>
 
 <br/>
@@ -71,4 +71,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://itnext.io/when-string-gethashcode-in-net-c-drives-you-crazy-c97ac7507d7b?sk=f9baa36c281e5f8afd79ef665ab39953
+[Article]: https://www.developmentsimplyput.com/post/when-string-gethashcode-in-net-c-drives-you-crazy
